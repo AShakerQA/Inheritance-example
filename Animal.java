@@ -30,5 +30,6 @@ public class Animal {
 		
 		}
 	
-	
-}
+		//polymorphism allows a method from super class to be 
+		//redefined in the sub class for more functionality/different
+}		//requires @override
